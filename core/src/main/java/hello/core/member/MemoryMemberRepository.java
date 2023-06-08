@@ -19,5 +19,4 @@ public class MemoryMemberRepository implements MemberRepository{ //option+enter
         return store.get(memberId);
     }
 
-
 }
